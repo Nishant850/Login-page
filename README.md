@@ -1,6 +1,6 @@
 # Login-page
 
-## Screenshot
+## Screenshots
 
 ![SS_1](https://user-images.githubusercontent.com/70227528/231967849-8bb19f16-f56a-493f-84e1-09f13d51ab7b.png)
 
